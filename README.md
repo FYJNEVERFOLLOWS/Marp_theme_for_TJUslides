@@ -1,3 +1,4 @@
+# 在陈扬大佬的工作基础上做了个TJU的组会模版，非常感谢大佬的贡献！
 # Marp_theme_for_THUslides
 使用 Marp 制作清华大学组会 Slides模板(可以换自己学校的背景图片)
 
